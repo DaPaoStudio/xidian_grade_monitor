@@ -17,5 +17,5 @@
 
 ## 关于许可证
 
-注意到，本项目包含 GNU GENERAL PUBLIC LICENSE v3.0 (GPL v3.0)
+注意到，本项目包含 GNU General Public License v3.0 (GPL v3.0)
 
